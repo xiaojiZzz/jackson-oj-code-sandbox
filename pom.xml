@@ -91,7 +91,6 @@
                 <version>${spring-boot.version}</version>
                 <configuration>
                     <mainClass>com.jackson.ojcodesandbox.JacksonojCodeSandboxApplication</mainClass>
-                    <skip>true</skip>
                 </configuration>
                 <executions>
                     <execution>
